@@ -53,3 +53,8 @@ line-height: 30px;
   width: 100%;
   margin: 0 auto;
 }
+
+/* Tagline fonts */
+div.col-md-4.col-sm-4 p {
+    font-size: 15px;
+}
